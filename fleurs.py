@@ -29,3 +29,4 @@ window.onclick(creation_fleur_get_position)
 window.listen()
 
 turtle.done()
+print("Ok")
